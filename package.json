@@ -1,7 +1,13 @@
 {
-  "name": "wasm-benchmark",
+  "name": "randomx-render",
   "version": "1.0.0",
+  "description": "WASM Benchmark",
+  "main": "index.js",
   "scripts": {
-    "start": "node run.js"
-  }
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
 }
